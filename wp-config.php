@@ -32,7 +32,7 @@ define('DB_PASSWORD', 'E~SrH*4kpJk&KR~pF6@61.]6');
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,6 +46,7 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
+
 define('AUTH_KEY',         '523rNkOmtLamVgFN44v6RWQcgZT5IsggHnb1S0oMKlGYjw8HMvvfgGOd2MMzhBAh');
 define('SECURE_AUTH_KEY',  'URCTMuoyExemYm94BqxJLe49f45Q8vQ6Wcymhqois5QLaSCfJfYNEgqCpsJDPxAq');
 define('LOGGED_IN_KEY',    'qY1lFapDnzydTRKDUPudfWvsYWjAVzcogyIWSjw8g4XCFtxemPoPFhZKNULMfkUp');
@@ -65,7 +66,6 @@ define('WP_TEMP_DIR',dirname(__FILE__).'/wp-content/uploads');
  * Turn off automatic updates since these are managed upstream.
  */
 define('AUTOMATIC_UPDATER_DISABLED', true);
-
 
 /**#@-*/
 
