@@ -5545,7 +5545,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 376628,
+		"initialSize": 131072,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/twentyfifteen\/screenshot.png",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/twentyfifteen\/screenshot.png",
 		"outputPathIsOutsideProject": 0,
