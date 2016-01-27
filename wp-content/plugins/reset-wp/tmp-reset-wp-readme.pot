@@ -1,0 +1,69 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Reset WP"
+msgstr ""
+
+#. Short description.
+msgid "Resets the WP Database to the default installation. It deletes all content and custom changes. Resets only database not modify or delete any files."
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin page screenshot"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin page screenshot for reset confirmation."
+msgstr ""
+
+#. Found in description list item.
+msgid "It adds a settings page to \"Dashboard\"-&gt;\"Tools\"-&gt;\"Reset WP\" where you can simply reset your WordPress database."
+msgstr ""
+
+#. Found in description list item.
+msgid "It adds submenu to the Admin Bar under the site title for quick access of this plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "Resets WordPress in quick time."
+msgstr ""
+
+#. Found in description list item.
+msgid "Handy tool for WordPress Programmers to reset database."
+msgstr ""
+
+#. Found in description list item, installation list item, remaining content
+#. list item.
+msgid "Download and extract this plugin to <code>wp-content/plugins/</code>"
+msgstr ""
+
+#. Found in description list item, installation list item, remaining content
+#. list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in description list item, installation list item, remaining content
+#. list item.
+msgid "\"Dashboard\"-&gt;\"Tools\"-&gt;\"Reset WP\""
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It resets the WordPress database to the default installation. It deletes all content and custom changes. It will only reset the database. It will not modify or delete any files."
+msgstr ""
+
+#. Found in description paragraph, remaining content paragraph.
+msgid "Usage :"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can submit it in http://www.nikunjsoni.co.in"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Other Notes"
+msgstr ""
